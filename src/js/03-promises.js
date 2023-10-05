@@ -19,7 +19,7 @@ function createPromise(position, delay) {
     }, delay);
   });
   return promise;
-}
+} 
 
 refs.formEl.addEventListener('submit', event => {
   event.preventDefault();
