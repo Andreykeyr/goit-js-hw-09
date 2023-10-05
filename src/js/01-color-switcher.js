@@ -26,6 +26,6 @@ stopBtn.addEventListener('click', onStopBtnClick => {
   stopBtn.disabled = true;
   start.disabled = false;
 
-}) 
+})
 
 

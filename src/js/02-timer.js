@@ -26,7 +26,7 @@ flatpickr(dateTimeEl, {
       btnStart.disabled = true;
     });
   },
-}); 
+});
 
 // ===============
 
